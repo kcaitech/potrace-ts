@@ -1,6 +1,6 @@
 {
   "name": "@kcaitech/potrace-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "type": "module",
   "description": "kcaitech potrace module",
@@ -25,8 +25,7 @@
     "test": "jest",
     "eslint": "eslint --ext .js,.ts,.vue src"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-json": "^6.1.0",
