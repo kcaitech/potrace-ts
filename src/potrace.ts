@@ -1,10 +1,10 @@
-import { Bitmap } from "./types/bitmap";
-import { Curve } from "./types/curve";
-import { Point } from "./types/point";
-import { Path } from "./types/path";
-import { Quad } from "./types/quad";
-import { Sum } from "./types/sum";
-import { Opti } from "./types/opti";
+import { Bitmap } from "./base/bitmap";
+import { Curve } from "./base/curve";
+import { Point } from "./base/point";
+import { Path } from "./base/path";
+import { Quad } from "./base/quad";
+import { Sum } from "./base/sum";
+import { Opti } from "./base/opti";
 import * as utils from "./utils";
 
 export interface PotraceOptions {

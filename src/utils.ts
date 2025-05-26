@@ -1,6 +1,6 @@
-import { Curve } from "./types/curve";
-import { Point } from "./types/point";
-import { Quad } from "./types/quad";
+import { Curve } from "./base/curve";
+import { Point } from "./base/point";
+import { Quad } from "./base/quad";
 
 const attrRegexps: { [key: string]: RegExp } = {};
 
