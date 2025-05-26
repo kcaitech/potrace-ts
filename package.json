@@ -13,7 +13,6 @@
   },
   "scripts": {
     "dev": "tsc -w",
-    "build-tsc": "tsc",
     "build": "rollup --config",
     "test": "jest",
     "eslint": "eslint --ext .js,.ts,.vue src"
