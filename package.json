@@ -1,10 +1,11 @@
 {
   "name": "@kcaitech/potrace-ts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": false,
   "type": "module",
   "description": "kcaitech potrace module",
   "author": "kcaitech.com",
+  "license": "GPL-2.0",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/types/index.d.ts",
@@ -53,7 +54,7 @@
     "not dead",
     "not ie 11"
   ],
-  "keywords": [],
+  "keywords": ["potrace", "typescript", "image to svg"],
   "productName": "potrace-ts",
   "jest": {
     "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
